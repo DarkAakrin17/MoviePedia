@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+
+}
+
+.App{
+  background-color: #111;
+}
+
+body{
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
